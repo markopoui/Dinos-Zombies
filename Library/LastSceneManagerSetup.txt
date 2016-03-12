@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Dinos&Zombies/sce\u0300nes/cardboardScene.unity"
+  isLoaded: 1
+  isActive: 1

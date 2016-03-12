@@ -1,0 +1,17 @@
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/obj/Debug/Assembly-CSharp.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/UnityEngine.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/UnityEditor.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Mono.Cecil.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Unity.DataContract.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/cassian/Documents/UnityProjects/Dinos-Zombies/Temp/bin/Debug/Mono.Cecil.Mdb.dll
