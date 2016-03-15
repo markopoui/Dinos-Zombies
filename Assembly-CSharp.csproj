@@ -73,6 +73,7 @@
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardAndroidDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardiOSDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\UnityEditorDevice.cs" />
+     <Compile Include="Assets\Dinos&amp;Zombies\scripts\CreateMonsters.cs" />
      <Compile Include="Assets\Dinos&amp;Zombies\scripts\LaserShoot.cs" />
      <Compile Include="Assets\Dinos&amp;Zombies\scripts\MoveAndKill.cs" />
      <Compile Include="Assets\Dinos&amp;Zombies\scripts\move_arm.cs" />

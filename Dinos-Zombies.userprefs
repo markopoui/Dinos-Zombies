@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Cardboard/Scripts/GazeInputModule.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Dinos&amp;Zombies/scripts/CreateMonsters.cs">
     <Files>
-      <File FileName="Assets/Cardboard/Scripts/GazeInputModule.cs" Line="1" Column="1" />
+      <File FileName="Assets/Dinos&amp;Zombies/scripts/LaserShoot.cs" Line="5" Column="31" />
+      <File FileName="Assets/Dinos&amp;Zombies/scripts/move_arm.cs" Line="46" Column="3" />
+      <File FileName="Assets/Dinos&amp;Zombies/scripts/MoveAndKill.cs" Line="8" Column="2" />
+      <File FileName="Assets/Dinos&amp;Zombies/scripts/CreateMonsters.cs" Line="32" Column="57" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

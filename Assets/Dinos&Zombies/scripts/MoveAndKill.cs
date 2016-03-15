@@ -26,5 +26,9 @@ public class MoveAndKill : MonoBehaviour {
 	void Update () {
 		transform.position = Vector3.MoveTowards(transform.position, player.GetComponent<Transform>().position, Time.deltaTime * speed);
 		controller.Move(Vector3.down * Time.deltaTime * gravity);
+
+		if (Vector3.Distance (playerPos, transform.position) < 10) {
+			Destroy(gameObject);
+		}
 	}
 }
